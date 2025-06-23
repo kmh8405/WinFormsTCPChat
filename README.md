@@ -1,4 +1,4 @@
-# Project 8 - WinFormTCPChat
+# WinFormTCPChat
 
 C# WinForms 기반의 로컬 채팅 프로그램입니다.
 
