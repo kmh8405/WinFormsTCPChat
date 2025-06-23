@@ -1,0 +1,10 @@
+C:\C#\TCPClient\bin\Debug\TCPClient.exe.config
+C:\C#\TCPClient\bin\Debug\TCPClient.exe
+C:\C#\TCPClient\bin\Debug\TCPClient.pdb
+C:\C#\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\C#\TCPClient\obj\Debug\TCPClient.Form1.resources
+C:\C#\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\C#\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\C#\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\C#\TCPClient\obj\Debug\TCPClient.exe
+C:\C#\TCPClient\obj\Debug\TCPClient.pdb
